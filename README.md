@@ -95,7 +95,7 @@ $$jaccard(u, v) = 1 - \frac{|neighbors(u) ∩ neighbors(v)|} {|neighbors(u) ∪ 
 |Macro F1|0.0311|0.0380|+22.2|     
 |Precision|0.0556|0.0717|+29.0|     
 |Recall|0.2313|0.2844|+23.0|
-|Threshold|0.1|0.2|100|
+|Threshold|0.1|0.2|+100|
 
 3.2 Качественные наблюдения
 1.	Precision-Recall: модель демонстрирует улучшение по обеим метрикам.
